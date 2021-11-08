@@ -4,9 +4,8 @@
 Creating a web service that offers data about various London Underground lines and stations.
 - [Optional] Create a web application client that interacts with the implemented service and displays data about lines and stations.
 - [Optional] Deploy the web service together with the web application client in the cloud.
-
 <br></br>
-
+## Roadmap
 This project includes three steps:
 
 - FastAPI for RESTful connections to the backend
